@@ -1,0 +1,559 @@
+[00:00:04.086] Server  LOG      ✓ Ready in 2.9s
+[00:00:07.542] Server  LOG      ○ Compiling / ...
+[00:00:40.382] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:40.383] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:40.383] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620196923}
+[00:00:43.315] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:00:43.315] Browser LOG     [v0] Backend response status: 500
+[00:00:43.315] Browser ERROR   [v0] Upload error: {}
+[00:01:33.134] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:33.134] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:33.134] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620249674}
+[00:01:37.950] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:01:38.895] Browser LOG     [v0] Backend response status: 500
+[00:01:38.895] Browser ERROR   [v0] Upload error: {}
+[00:04:24.689] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:24.942] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:04:24.942] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:04:24.942] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620421477}
+[00:04:27.993] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:04:28.714] Browser LOG     [v0] Backend response status: 500
+[00:04:28.714] Browser ERROR   [v0] Upload error: {}
+[00:06:52.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:53.063] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:53.063] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:06:53.063] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620569602}
+[00:06:56.057] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:06:57.034] Browser LOG     [v0] Backend response status: 500
+[00:06:57.034] Browser ERROR   [v0] Upload error: {}
+[00:10:30.267] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:30.442] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:10:30.442] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:10:30.442] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620786988}
+[00:10:34.106] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:10:34.909] Browser LOG     [v0] Backend response status: 500
+[00:10:34.909] Browser ERROR   [v0] Upload error: {}
+[00:13:10.024] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:10.024] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:13:10.025] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620946567}
+[00:13:13.038] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:13:14.136] Browser LOG     [v0] Backend response status: 500
+[00:13:14.136] Browser ERROR   [v0] Upload error: {}
+[00:13:39.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:40.002] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:40.002] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:13:40.002] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765620976547}
+[00:13:42.336] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:13:42.632] Browser LOG     [v0] Backend response status: 500
+[00:13:42.632] Browser ERROR   [v0] Upload error: {}
+[00:14:29.146] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:29.552] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:14:29.552] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:14:29.552] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621025884}
+[00:15:27.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:27.604] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:27.604] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:15:27.604] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621084149}
+[00:15:30.870] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:15:31.787] Browser LOG     [v0] Backend response status: 500
+[00:15:31.787] Browser ERROR   [v0] Upload error: {}
+[00:16:19.973] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:20.139] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:16:20.139] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:16:20.139] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621136685}
+[00:16:22.873] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:16:23.605] Browser LOG     [v0] Backend response status: 500
+[00:16:23.605] Browser ERROR   [v0] Upload error: {}
+[00:17:53.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:53.538] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:53.539] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:17:53.539] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621230084}
+[00:17:55.904] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:17:56.915] Browser LOG     [v0] Backend response status: 500
+[00:17:56.915] Browser ERROR   [v0] Upload error: {}
+[00:21:47.012] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:47.291] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:21:47.291] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:21:47.291] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621463833}
+[00:21:51.194] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:21:52.406] Browser LOG     [v0] Backend response status: 500
+[00:21:52.406] Browser ERROR   [v0] Upload error: {}
+[00:24:52.240] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:52.469] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:24:52.469] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:24:52.470] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621649015}
+[00:24:56.040] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:24:57.087] Browser LOG     [v0] Backend response status: 500
+[00:24:57.087] Browser ERROR   [v0] Upload error: {}
+[00:28:19.407] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:19.666] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:28:19.666] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:28:19.666] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765621856200}
+[00:28:22.038] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:28:22.834] Browser LOG     [v0] Backend response status: 500
+[00:28:22.834] Browser ERROR   [v0] Upload error: {}
+[00:37:09.949] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:10.246] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:37:10.246] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:37:10.246] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765622386791}
+[00:37:14.061] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:37:15.233] Browser LOG     [v0] Backend response status: 500
+[00:37:15.233] Browser ERROR   [v0] Upload error: {}
+[00:39:40.360] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:40.601] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:39:40.601] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:39:40.601] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765622537132}
+[00:39:42.681] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:39:43.949] Browser LOG     [v0] Backend response status: 500
+[00:39:43.949] Browser ERROR   [v0] Upload error: {}
+[00:40:01.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:02.045] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:40:02.045] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:40:02.045] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765622558581}
+[00:40:04.495] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:40:05.489] Browser LOG     [v0] Backend response status: 500
+[00:40:05.489] Browser ERROR   [v0] Upload error: {}
+[00:53:30.332] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:30.810] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:53:30.810] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:53:30.810] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765623367343}
+[00:55:31.799] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:32.101] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:55:32.101] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:55:32.101] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765623488498}
+[00:56:55.010] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:56:57.006] Browser LOG     [v0] Backend response status: 500
+[00:56:57.006] Browser ERROR   [v0] Upload error: {}
+[00:57:20.432] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:20.646] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:57:20.646] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:57:20.646] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765623597035}
+[00:57:25.948] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[00:57:29.400] Browser LOG     [v0] Backend response status: 500
+[00:57:29.400] Browser ERROR   [v0] Upload error: {}
+[01:01:03.336] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:03.657] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:01:03.657] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:01:03.657] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765623820046}
+[01:01:07.862] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[01:01:11.460] Browser LOG     [v0] Backend response status: 500
+[01:01:11.460] Browser ERROR   [v0] Upload error: {}
+[01:03:21.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:03:21.638] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:03:21.638] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:03:21.638] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765623958028}
+[01:03:26.223] Browser LOG     [v0] Uploading file to backend: System_Design_Document.pdf
+[01:03:35.294] Browser LOG     [v0] Backend response status: 500
+[01:03:35.294] Browser ERROR   [v0] Upload error: {}
+[01:04:28.188] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:04:28.457] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:04:28.457] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:04:28.457] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624024847}
+[01:04:33.348] Browser LOG     [v0] Uploading file to backend: Full-Stack & AI Systems Design Engineer_ Take-Home Assignment.pdf
+[01:04:52.518] Browser LOG     [v0] Backend response status: 500
+[01:04:52.518] Browser ERROR   [v0] Upload error: {}
+[01:07:07.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:07.334] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:07:07.334] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:07:07.334] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624183720}
+[01:07:11.977] Browser LOG     [v0] Uploading file to backend: Full-Stack & AI Systems Design Engineer_ Take-Home Assignment.pdf
+[01:07:40.338] Browser LOG     [v0] Backend response status: 500
+[01:07:40.338] Browser ERROR   [v0] Upload error: {}
+[01:13:35.625] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:36.082] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:13:36.082] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:13:36.082] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624572477}
+[01:13:42.138] Browser LOG     [v0] Uploading file to backend: Accenture_SQL_Medium_Hard_Practice_Set.pdf
+[01:14:08.085] Browser LOG     [v0] Backend response status: 500
+[01:14:08.086] Browser ERROR   [v0] Upload error: {}
+[01:16:42.156] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:42.326] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:16:42.327] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:16:42.327] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624758710}
+[01:16:47.798] Browser LOG     [v0] Uploading file to backend: DSA_Interview_Basic_Questions_and_Topics.pdf
+[01:17:05.596] Browser LOG     [v0] Backend response status: 200
+[01:17:05.596] Browser LOG     [v0] Backend response data: {"formatted":{"clean_text":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1.  Find the largest element in an array.\n2.  Find the smallest element in an array.\n3.  Reverse an array.\n4.  Find the second largest element in an array.\n5.  Check if the array is sorted.\n6.  Find the sum of all elements in an array.\n7.  Remove duplicate elements from an array.\n8.  Rotate the array by K positions.\n9.  Find the missing number in an array of 1 to N.\n10. Find the frequency of each element in an array.\n11. Reverse a string.\n12. Check if a string is a palindrome.\n13. Count vowels and consonants in a string.\n14. Remove duplicate characters from a string.\n15. Find the first non-repeating character in a string.\n16. Check if two strings are anagrams.\n17. Find the length of a string without using built-in function.\n18. Count words in a sentence.\n19. Convert lowercase to uppercase without built-in function.\n20. Find the longest word in a string.\n\n**Array Topics:**\n*   Traversal\n*   Insertion\n*   Deletion\n*   Searching (Linear, Binary)\n*   Sorting (Bubble, Selection, Insertion)\n*   Two Pointer Technique\n*   Sliding Window\n*   Prefix Sum\n\n**String Topics:**\n*   Palindrome\n*   Anagram\n*   Substring\n*   Character Frequency\n*   String Compression\n*   String Rotation\n*   Pattern Matching\n\n**Stack Topics:**\n*   Push & Pop\n*   Peek\n*   Implementation using Array & Linked List\n*   Infix to Postfix\n*   Parenthesis Matching\n*   Stock Span Problem\n\n**Queue Topics:**\n*   Enqueue & Dequeue\n*   Circular Queue\n*   Priority Queue\n*   Deque\n*   Queue using Stack\n\n**Linked List Topics:**\n*   Singly Linked List\n*   Doubly Linked List\n*   Circular Linked List\n*   Insertion & Deletion\n*   Reverse Linked List\n*   Detect Loop\n\n**Tree Topics:**\n*   Binary Tree\n*   Binary Search Tree\n*   Tree Traversals (Inorder, Preorder, Postorder)\n*   Height of Tree\n*   Lowest Common Ancestor\n\n**Graph Topics:**\n*   BFS & DFS\n*   Adjacency Matrix & List\n*   Connected Components\n*   Cycle Detection\n*   Shortest Path (Dijkstra)\n\n**Recursion Topics:**\n*   Factorial\n*   Fibonacci\n*   Reverse String\n*   Binary Search using Recursion\n*   Tower of Hanoi\n\n**Java Topics:**\n*   OOP Concepts\n*   Exception Handling\n*   Collections Framework\n*   Multithreading\n*   JVM, JRE, JDK\n*   String vs StringBuilder\n*   Garbage Collection\n\n---\n\n### 2. Short Summary\n\nThis document outlines essential Data Structures and Algorithms (DSA) and Java topics crucial for technical interviews. It begins with 20 fundamental array and string interview questions covering operations like finding elements, sorting, reversing, and manipulating strings. The text then details core DSA concepts including Arrays, Strings, Stacks, Queues, Linked Lists, Trees, Graphs, and Recursion, listing common operations and advanced techniques for each. Finally, it highlights key Java-specific interview topics such as OOP, exception handling, the Collections Framework, multithreading, and JVM internals, serving as a comprehensive guide for interview preparation.\n\n---\n\n### 3. Keywords\n\nData Structures, Algorithms, Interview Preparation, Array, String, Stack, Queue, Linked List, Tree, Graph, Recursion, Java, OOP Concepts, Searching, Sorting, Traversals, Multithreading","keywords":[],"summary":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1.  Find the largest element in an array.\n2.  Find the smallest element in an array.\n3.  Reverse an array.\n4.  Find the second largest element in an array.\n5.  Check if the array is sorted.\n6.  Find the sum of all element"},"message":"PDF processed successfully"}
+[01:17:21.105] Browser LOG     [v0] Sending message to backend
+[01:17:21.105] Browser LOG     [v0] Chat response status: 400
+[01:17:21.105] Browser ERROR   [v0] Chat error: {}
+[01:20:01.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:01.375] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:20:01.375] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:20:01.375] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624957771}
+[01:20:14.389] Browser LOG     [v0] Uploading file to backend: AA4JYA57aFQ (mp3cut.net).mp3
+[01:20:16.719] Browser ERROR   [v0] Upload error: {}
+[01:20:34.747] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:34.898] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:20:34.898] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:20:34.898] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765624991294}
+[01:20:47.301] Browser LOG     [v0] Sending message to backend
+[01:20:47.301] Browser LOG     [v0] Chat response status: 400
+[01:20:47.301] Browser ERROR   [v0] Chat error: {}
+[01:20:53.484] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:53.661] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:20:53.661] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:20:53.661] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765625010059}
+[01:21:02.974] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net) (1).mp3
+[01:21:02.974] Browser LOG     [v0] Backend response status: 500
+[01:21:02.974] Browser ERROR   [v0] Upload error: {}
+[01:32:35.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:35.972] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:32:35.972] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:32:35.972] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765625712369}
+[01:32:52.685] Server  LOG      ✓ Compiled in 217ms
+[01:32:52.838] Server  LOG      ✓ Compiled in 136ms
+[01:32:53.508] Server  LOG      ✓ Compiled in 149ms
+[01:33:25.519] Browser LOG     [v0] Sending message to /api/query endpoint
+[01:33:25.679] Browser LOG     [v0] Response status: 404
+[01:33:25.679] Browser ERROR   [v0] Request error: {}
+[01:33:59.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:59.281] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:33:59.281] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:33:59.281] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765625795677}
+[01:34:03.612] Browser LOG     [v0] Uploading file to backend: DSA_LeetCode_Topicwise.pdf
+[01:34:31.280] Browser LOG     [v0] Backend response status: 200
+[01:34:31.280] Browser LOG     [v0] Backend response data: {"formatted":{"clean_text":"Here's the cleaned and structured text, along with a summary and keywords:\n\n---\n\n### 1. Clean Text\n\n**LeetCode Topic-wise Questions with Problem Numbers**\n\n**Linked List (20)**\n1.  Reverse Linked List (206)\n2.  Middle of the Linked List (876)\n3.  Merge Two Sorted Lists (21)\n4.  Remove Nth Node From End (19)\n5.  Delete Node in a Linked List (237)\n6.  Linked List Cycle (141)\n7.  Linked List Cycle II (142)\n8.  Palindrome Linked List (234)\n9.  Add Two Numbers (2)\n10. Intersection of Two Linked Lists (160)\n11. Remove Duplicates from Sorted List (83)\n12. Remove Duplicates II (82)\n13. Rotate List (61)\n14. Partition List (86)\n15. Reverse Linked List II (92)\n16. Swap Nodes in Pairs (24)\n17. Odd Even Linked List (328)\n18. Sort List (148)\n19. Reorder List (143)\n20. Copy List with Random Pointer (138)\n\n**Stack (20)**\n1.  Valid Parentheses (20)\n2.  Min Stack (155)\n3.  Daily Temperatures (739)\n4.  Next Greater Element I (496)\n5.  Next Greater Element II (503)\n6.  Evaluate Reverse Polish Notation (150)\n7.  Implement Stack Using Queues (225)\n8.  Implement Queue Using Stacks (232)\n9.  Decode String (394)\n10. Basic Calculator (224)\n11. Basic Calculator II (227)\n12. Remove Adjacent Duplicates (1047)\n13. Simplify Path (71)\n14. Trapping Rain Water (42)\n15. Largest Rectangle in Histogram (84)\n16. 132 Pattern (456)\n17. Validate Stack Sequences (946)\n18. Remove K Digits (402)\n19. Score of Parentheses (856)\n20. Asteroid Collision (735)\n\n**Queue (20)**\n1.  Implement Queue Using Stacks (232)\n2.  Design Circular Queue (622)\n3.  Sliding Window Maximum (239)\n4.  Number of Recent Calls (933)\n5.  Perfect Squares (279)\n6.  Rotten Oranges (994)\n7.  Course Schedule (207)\n8.  Course Schedule II (210)\n9.  Find the Winner (1823)\n10. Dota2 Senate (649)\n11. Time Needed to Buy Tickets (2073)\n12. First Unique Character in Stream (387)\n13. Moving Average (346)\n14. Shortest Subarray with Sum at Least K (862)\n15. Interleaving String BFS (97)\n16. Binary Tree Right Side View (199)\n17. Binary Tree Level Order Traversal (102)\n18. Snake and Ladder BFS (not LC)\n19. Bus Routes (815)\n20. Walls and Gates (286)\n\n**HashMap (20)**\n1.  Two Sum (1)\n2.  Group Anagrams (49)\n3.  Top K Frequent Elements (347)\n4.  Subarray Sum Equals K (560)\n5.  Longest Substring Without Repeat (3)\n6.  Longest Consecutive Sequence (128)\n7.  3Sum (15)\n8.  Valid Anagram (242)\n9.  Isomorphic Strings (205)\n10. Word Pattern (290)\n11. Contains Duplicate (217)\n12. Contains Duplicate II (219)\n13. LRU Cache (146)\n14. Majority Element (169)\n15. Happy Number (202)\n16. Ransom Note (383)\n17. First Unique Character (387)\n18. Brick Wall (554)\n19. Number of Boomerangs (447)\n20. Four Sum II (454)\n\n**Recursion / Backtracking (20)**\n1.  Fibonacci Number (509)\n2.  Climbing Stairs (70)\n3.  Subsets (78)\n4.  Subsets II (90)\n5.  Permutations (46)\n6.  Permutations II (47)\n7.  Combination Sum (39)\n8.  Combination Sum II (40)\n9.  Letter Combinations of Phone Number (17)\n10. Generate Parentheses (22)\n11. Word Search (79)\n12. Palindrome Partitioning (131)\n13. Combinations (77)\n14. Restore IP Addresses (93)\n15. K-th Symbol in Grammar (779)\n16. N-Queens (51)\n17. N-Queens II (52)\n18. Target Sum (494)\n19. House Robber Tree Recursion (337)\n20. Merge Two Binary Trees (617)\n\n**Tree (20)**\n1.  Binary Tree Inorder Traversal (94)\n2.  Preorder Traversal (144)\n3.  Postorder Traversal (145)\n4.  Level Order Traversal (102)\n5.  Maximum Depth (104)\n6.  Diameter of Binary Tree (543)\n7.  Same Tree (100)\n8.  Symmetric Tree (101)\n9.  Balanced Binary Tree (110)\n10. Path Sum (112)\n11. Path Sum II (113)\n12. LCA in BST (235)\n13. LCA in Binary Tree (236)\n14. Sorted Array to BST (108)\n15. Construct Tree Pre + Inorder (105)\n16. Zigzag Level Order (103)\n17. Right Side View (199)\n18. Vertical Order (314)\n19. BST Iterator (173)\n20. Kth Smallest in BST (230)\n\n**Graph (20)**\n1.  Number of Islands (200)\n2.  Max Area of Island (695)\n3.  Clone Graph (133)\n4.  Course Schedule (207)\n5.  Course Schedule II (210)\n6.  Rotten Oranges (994)\n7.  Flood Fill (733)\n8.  Path Exists (1971)\n9.  Surrounded Regions (130)\n10. Word Ladder (127)\n11. Word Ladder II (126)\n12. Is Bipartite (785)\n13. Number of Provinces (547)\n14. Shortest Path in Binary Matrix (1091)\n15. Eventual Safe States (802)\n16. Pacific Atlantic Water Flow (417)\n17. Dijkstra (no fixed LC ID)\n18. Bellman-Ford (concept)\n19. Minimum Spanning Tree - Kruskal (concept)\n20. Minimum Spanning Tree - Prim (concept)\n\n---\n\n### 2. Short Summary\n\nThis document provides a structured list of 140 LeetCode problems, meticulously categorized by common data structures and algorithmic paradigms. It features seven distinct topics: Linked List, Stack, Queue, HashMap, Recursion/Backtracking, Tree, and Graph. Each category comprises 20 handpicked problems, complete with their LeetCode problem numbers, making it an excellent resource for coding practice or interview preparation. Some entries also include helpful notes, indicating if a problem is not from LeetCode or represents a broader algorithm concept.\n\n---\n\n### 3. Keywords\n\nLeetCode, Data Structures, Algorithms, Linked List, Stack, Queue, HashMap, Tree, Graph, Recursion, Backtracking, Problem Solving, Coding Interview Preparation, Problem Numbers.","keywords":[],"summary":"Here's the cleaned and structured text, along with a summary and keywords:\n\n---\n\n### 1. Clean Text\n\n**LeetCode Topic-wise Questions with Problem Numbers**\n\n**Linked List (20)**\n1.  Reverse Linked List (206)\n2.  Middle of the Linked List (876)\n3.  Merge Two Sorted Lists (21)\n4.  Remove Nth Node From End (19)\n5.  Delete Node in a Linked List (237)\n6.  Linked List Cycle (141)\n7.  Linked List Cycle II"},"message":"PDF processed successfully"}
+[01:34:41.726] Browser LOG     [v0] Sending message to /api/chat endpoint
+[01:34:41.726] Browser LOG     [v0] Response status: 400
+[01:34:41.726] Browser ERROR   [v0] Request error: {}
+[01:35:12.520] Server  LOG      ✓ Compiled in 277ms
+[01:35:12.838] Server  LOG      ✓ Compiled in 177ms
+[01:35:13.232] Server  LOG      ✓ Compiled in 146ms
+[01:35:27.636] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:35:27.637] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:35:27.637] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765625884031}
+[01:35:39.054] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:35:39.054] Browser LOG     [v0] Response status: 404
+[01:35:39.054] Browser ERROR   [v0] Request error: {}
+[01:37:24.158] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:37:24.158] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:37:24.158] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626000552}
+[01:37:26.352] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:37:26.352] Browser LOG     [v0] Response status: 404
+[01:37:26.352] Browser ERROR   [v0] Request error: {}
+[01:39:22.370] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:22.619] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:39:22.619] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:39:22.619] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626119011}
+[01:39:23.962] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:39:24.760] Browser LOG     [v0] Response status: 500
+[01:39:24.760] Browser ERROR   [v0] Request error: {}
+[01:42:21.188] Server  LOG      ✓ Compiled in 503ms
+[01:42:21.434] Server  LOG      ✓ Compiled in 248ms
+[01:42:21.900] Server  LOG      ✓ Compiled in 150ms
+[01:42:22.846] Server  LOG      ✓ Compiled in 769ms
+[01:42:23.544] Browser ERROR   ./components/chat-interface.jsx:127:11
+Parsing ecmascript source code failed
+  125 |         },
+  126 |         body: JSON.stringify({
+> 127 |           : input,
+      |           ^
+  128 |           ...(hasFiles && { files: uploadedFiles.map((f) => ({ name: f.name, type: f.type })) }),
+  129 |         }),
+  130 |       })
+
+Unexpected token `:`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import traces:
+  Client Component Browser:
+    ./components/chat-interface.jsx [Client Component Browser]
+    ./app/page.jsx [Client Component Browser]
+    ./app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/chat-interface.jsx [Client Component SSR]
+    ./app/page.jsx [Client Component SSR]
+    ./app/page.jsx [Server Component]
+[01:42:24.588] Server  LOG      ✓ Compiled in 191ms
+[01:42:25.476] Server  LOG      ✓ Compiled in 301ms
+[01:42:26.144] Server  LOG      ✓ Compiled in 116ms
+[01:42:26.483] Server  LOG      ✓ Compiled in 142ms
+[01:42:26.755] Server  LOG      ✓ Compiled in 182ms
+[01:42:39.242] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:39.431] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:42:39.431] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:42:39.431] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626315828}
+[01:42:44.145] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:42:45.406] Browser LOG     [v0] Response status: 500
+[01:42:45.406] Browser ERROR   [v0] Request error: {}
+[01:45:17.237] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:17.465] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:45:17.465] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:45:17.465] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626473863}
+[01:45:18.414] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:45:19.960] Browser LOG     [v0] Response status: 500
+[01:45:19.960] Browser ERROR   [v0] Request error: {}
+[01:47:50.543] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:47:50.720] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:47:50.720] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:47:50.720] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626627105}
+[01:47:58.893] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:48:00.018] Browser LOG     [v0] Response status: 500
+[01:48:00.018] Browser ERROR   [v0] Request error: {}
+[01:49:19.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:49:19.961] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:49:19.962] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:49:19.962] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626716356}
+[01:49:21.054] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:49:22.189] Browser LOG     [v0] Response status: 500
+[01:49:22.189] Browser ERROR   [v0] Request error: {}
+[01:50:40.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:40.791] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:50:40.791] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:50:40.791] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626797189}
+[01:50:41.854] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:50:43.051] Browser LOG     [v0] Response status: 500
+[01:50:43.051] Browser ERROR   [v0] Request error: {}
+[01:52:13.563] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:52:13.730] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:52:13.730] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:52:13.730] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626890119}
+[01:53:05.606] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:53:07.101] Browser LOG     [v0] Response status: 500
+[01:53:07.101] Browser ERROR   [v0] Request error: {}
+[01:53:14.632] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:53:14.795] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:53:14.795] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:53:14.795] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765626951184}
+[01:55:24.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:55:25.012] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:55:25.012] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:55:25.012] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765627081407}
+[01:55:29.867] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[01:55:31.118] Browser LOG     [v0] Response status: 500
+[01:55:31.118] Browser ERROR   [v0] Request error: {}
+[03:38:58.485] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:38:58.661] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:38:58.661] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:38:58.661] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765633294913}
+[03:39:04.337] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:39:04.597] Browser LOG     [v0] Response status: 500
+[03:39:04.597] Browser ERROR   [v0] Request error: {}
+[03:39:48.869] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:39:49.061] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:39:49.061] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:39:49.061] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765633345303}
+[03:39:55.227] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:39:56.905] Browser LOG     [v0] Response status: 500
+[03:39:56.905] Browser ERROR   [v0] Request error: {}
+[03:49:58.012] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:49:58.278] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:49:58.278] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:49:58.278] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765633954529}
+[03:50:00.060] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:50:00.800] Browser LOG     [v0] Response status: 200
+[03:50:00.800] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[03:50:49.648] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:50:51.693] Browser LOG     [v0] Response status: 500
+[03:50:51.693] Browser ERROR   [v0] Request error: {}
+[03:51:01.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:51:01.580] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:51:01.580] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:51:01.580] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634017827}
+[03:51:08.030] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:51:09.211] Browser LOG     [v0] Response status: 200
+[03:51:09.211] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[03:51:23.592] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:51:23.770] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:51:23.770] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:51:23.770] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634040013}
+[03:51:25.482] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:51:26.794] Browser LOG     [v0] Response status: 200
+[03:51:26.794] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[03:52:00.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:52:01.039] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:52:01.039] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:52:01.039] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634077292}
+[03:52:03.054] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:52:04.108] Browser LOG     [v0] Response status: 200
+[03:52:04.108] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[03:59:54.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:59:55.546] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:59:55.546] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[03:59:55.546] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634550951}
+[03:59:57.542] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[03:59:59.376] Browser LOG     [v0] Response status: 200
+[03:59:59.376] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[04:01:16.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:01:17.141] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:01:17.141] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:01:17.141] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634633391}
+[04:01:19.391] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[04:01:20.481] Browser LOG     [v0] Response status: 200
+[04:01:20.481] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[04:05:44.779] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:05:44.988] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:05:44.988] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:05:44.988] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765634901231}
+[04:05:47.254] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[04:05:48.541] Browser LOG     [v0] Response status: 200
+[04:05:48.541] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[]}
+[04:11:49.684] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:49.908] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:49.908] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:11:49.908] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765635266159}
+[04:11:51.841] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[04:11:54.309] Browser LOG     [v0] Response status: 200
+[04:11:54.309] Browser LOG     [v0] Response data: {"answer":"The provided context lists 20 basic array interview questions, but only 11 are shown, including: \n1. Find the largest element in an array, \n2. Find the smallest element in an array, \n3. Reverse an array, \n4. Find the second largest element in an array, \n5. Check if the array is sorted, \n6. Find the sum of all elements in an array, \n7. Remove duplicate elements from an array, \n8. Rotate the array by K positions, \n9. Find the missing number in an array of 1 to N, \n10. Find the frequency of each element in an array.","sources":[{"__v":0,"_id":"693d4bcd5db0841d0a042469","created_at":"2025-12-13T11:19:41.514Z","embedding":[0.07423691,0.09253306,-0.049737714,-0.04891334,0.006775462,0.03344974,0.008090903,0.023163818,0.009941181,0.012237931,-0.0080885,0.016165892,0.10346664,-0.031229988,0.0031680646,-0.03148002,0.040872496,0.058305994,-0.010255347,-0.036581244,-0.009792879,-0.015507164,0.019100625,0.0066654817,-0.017217347,-0.031521734,-0.009720584,-0.029348455,-0.011764576,0.06312012,0.015241744,0.036371734,-0.029061522,0.0010266324,0.0069410075,0.07167607,-0.03851944,-0.03153226,-0.0020781017,-0.032421473,-0.072541595,-0.016368385,0.00117855,-0.029151594,-0.03616412,-0.015644772,0.027898213,0.024372134,-0.074021734,0.039286807,0.04456207,-0.006193594,-0.06442867,-0.011229952,-0.0044643837,-0.043723892,0.0098309005,0.003254855,-0.0031717666,0.05512558,0.009316139,-0.009402563,0.002274451,-0.025640849,-0.051048733,0.05089602,-0.030109461,0.0033484965,-0.020935712,0.036062367,-0.03607045,0.009854894,-0.050049275,0.05621826,0.016781772,0.005984351,-0.012891266,0.014444676,0.00615394,0.017691184,-0.009216263,-0.021289298,0.06116895,-0.02467549,-0.034886714,0.024478663,-0.02332416,-0.010348757,-0.009257754,-0.00829677,0.076978706,0.03728287,-0.007030047,0.043575164,0.02341361,-0.06465167,-0.057493847,-0.08872772,-0.014638324,0.091260076,"... 667 items not stringified"],"keywords":[],"summary":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1.  Find the largest element in an array.\n2.  Find the smallest element in an array.\n3.  Reverse an array.\n4.  Find the second largest element in an array.\n5.  Check if the array is sorted.\n6.  Find the sum of all element","text":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1. Find the largest element in an array. 2. Find the smallest element in an array. 3. Reverse an array. 4. Find the second largest element in an array. 5. Check if the array is sorted. 6. Find the sum of all elements in an array. 7. Remove duplicate elements from an array. 8. Rotate the array by K positions. 9. Find the missing number in an array of 1 to N. 10. Find the frequency of each element in an array. 11.","timestamps":[]}]}
+[04:19:08.983] Server  LOG      ✓ Compiled in 717ms
+[04:20:32.756] Server  LOG      ✓ Compiled in 567ms
+[04:20:42.547] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:20:42.770] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:20:42.770] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:20:42.770] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765635799022}
+[04:20:44.531] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[04:20:46.560] Browser LOG     [v0] Response status: 200
+[04:20:46.560] Browser LOG     [v0] Response data: {"answer":"20 Basic Array & String Interview Questions are provided, including finding the largest element, smallest element, reversing an array, and more.","sources":[{"__v":0,"_id":"693d4bcd5db0841d0a042469","created_at":"2025-12-13T11:19:41.514Z","embedding":[0.07423691,0.09253306,-0.049737714,-0.04891334,0.006775462,0.03344974,0.008090903,0.023163818,0.009941181,0.012237931,-0.0080885,0.016165892,0.10346664,-0.031229988,0.0031680646,-0.03148002,0.040872496,0.058305994,-0.010255347,-0.036581244,-0.009792879,-0.015507164,0.019100625,0.0066654817,-0.017217347,-0.031521734,-0.009720584,-0.029348455,-0.011764576,0.06312012,0.015241744,0.036371734,-0.029061522,0.0010266324,0.0069410075,0.07167607,-0.03851944,-0.03153226,-0.0020781017,-0.032421473,-0.072541595,-0.016368385,0.00117855,-0.029151594,-0.03616412,-0.015644772,0.027898213,0.024372134,-0.074021734,0.039286807,0.04456207,-0.006193594,-0.06442867,-0.011229952,-0.0044643837,-0.043723892,0.0098309005,0.003254855,-0.0031717666,0.05512558,0.009316139,-0.009402563,0.002274451,-0.025640849,-0.051048733,0.05089602,-0.030109461,0.0033484965,-0.020935712,0.036062367,-0.03607045,0.009854894,-0.050049275,0.05621826,0.016781772,0.005984351,-0.012891266,0.014444676,0.00615394,0.017691184,-0.009216263,-0.021289298,0.06116895,-0.02467549,-0.034886714,0.024478663,-0.02332416,-0.010348757,-0.009257754,-0.00829677,0.076978706,0.03728287,-0.007030047,0.043575164,0.02341361,-0.06465167,-0.057493847,-0.08872772,-0.014638324,0.091260076,"... 667 items not stringified"],"keywords":[],"summary":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1.  Find the largest element in an array.\n2.  Find the smallest element in an array.\n3.  Reverse an array.\n4.  Find the second largest element in an array.\n5.  Check if the array is sorted.\n6.  Find the sum of all element","text":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1. Find the largest element in an array. 2. Find the smallest element in an array. 3. Reverse an array. 4. Find the second largest element in an array. 5. Check if the array is sorted. 6. Find the sum of all elements in an array. 7. Remove duplicate elements from an array. 8. Rotate the array by K positions. 9. Find the missing number in an array of 1 to N. 10. Find the frequency of each element in an array. 11.","timestamps":[]}]}
+[04:22:05.902] Server  LOG      ✓ Compiled in 157ms
+[04:22:06.504] Server  LOG      ✓ Compiled in 173ms
+[04:22:17.724] Server  LOG      ✓ Compiled in 105ms
+[04:22:18.117] Server  LOG      ✓ Compiled in 301ms
+[04:22:22.275] Browser ERROR   ./components/chat-interface.jsx:275:55
+Parsing ecmascript source code failed
+  273 |                   </div>
+  274 |                   <div className="text-xs text-gray-700 whitespace-pre-wrap">
+> 275 |                     {message.sources[0].text.slice(0, 00)}...
+      |                                                       ^^
+  276 |                   </div>
+  277 |                 </div>
+  278 |               )}
+
+Legacy octal escape is not permitted in strict mode
+
+Import traces:
+  Client Component Browser:
+    ./components/chat-interface.jsx [Client Component Browser]
+    ./app/page.jsx [Client Component Browser]
+    ./app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/chat-interface.jsx [Client Component SSR]
+    ./app/page.jsx [Client Component SSR]
+    ./app/page.jsx [Server Component]
+[04:22:29.290] Server  LOG      ✓ Compiled in 122ms
+[04:22:30.215] Server  LOG      ✓ Compiled in 262ms
+[04:22:30.614] Server  LOG      ✓ Compiled in 263ms
+[04:22:38.515] Server  LOG      ✓ Compiled in 277ms
+[04:22:38.991] Server  LOG      ✓ Compiled in 285ms
+[04:22:39.361] Server  LOG      ✓ Compiled in 308ms
+[04:22:48.976] Server  LOG      ✓ Compiled in 148ms
+[04:22:52.678] Server  LOG      ✓ Compiled in 91ms
+[04:22:53.541] Browser ERROR   ./components/chat-interface.jsx:275:55
+Parsing ecmascript source code failed
+  273 |                   </div>
+  274 |                   <div className="text-xs text-gray-700 whitespace-pre-wrap">
+> 275 |                     {message.sources[0].text.slice(0, 00)}...
+      |                                                       ^^
+  276 |                   </div>
+  277 |                 </div>
+  278 |               )}
+
+Legacy octal escape is not permitted in strict mode
+
+Import traces:
+  Client Component Browser:
+    ./components/chat-interface.jsx [Client Component Browser]
+    ./app/page.jsx [Client Component Browser]
+    ./app/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/chat-interface.jsx [Client Component SSR]
+    ./app/page.jsx [Client Component SSR]
+    ./app/page.jsx [Server Component]
+[04:23:13.516] Server  LOG      ✓ Compiled in 0ms
+[04:23:17.089] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:23:17.089] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:23:17.089] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765635953342}
+[04:23:20.203] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[04:23:22.841] Browser LOG     [v0] Response status: 200
+[04:23:22.841] Browser LOG     [v0] Response data: {"answer":"The provided context lists 20 basic array interview questions, but only 11 are shown. Some of the questions include: \n1. Find the largest element in an array, \n2. Find the smallest element in an array, \n3. Reverse an array, \n4. Find the second largest element in an array, \n5. Check if the array is sorted, \n6. Find the sum of all elements in an array, \n7. Remove duplicate elements from an array, \n8. Rotate the array by K positions, \n9. Find the missing number in an array of 1 to N, \n10. Find the frequency of each element in an array.","sources":[{"__v":0,"_id":"693d4bcd5db0841d0a042469","created_at":"2025-12-13T11:19:41.514Z","embedding":[0.07423691,0.09253306,-0.049737714,-0.04891334,0.006775462,0.03344974,0.008090903,0.023163818,0.009941181,0.012237931,-0.0080885,0.016165892,0.10346664,-0.031229988,0.0031680646,-0.03148002,0.040872496,0.058305994,-0.010255347,-0.036581244,-0.009792879,-0.015507164,0.019100625,0.0066654817,-0.017217347,-0.031521734,-0.009720584,-0.029348455,-0.011764576,0.06312012,0.015241744,0.036371734,-0.029061522,0.0010266324,0.0069410075,0.07167607,-0.03851944,-0.03153226,-0.0020781017,-0.032421473,-0.072541595,-0.016368385,0.00117855,-0.029151594,-0.03616412,-0.015644772,0.027898213,0.024372134,-0.074021734,0.039286807,0.04456207,-0.006193594,-0.06442867,-0.011229952,-0.0044643837,-0.043723892,0.0098309005,0.003254855,-0.0031717666,0.05512558,0.009316139,-0.009402563,0.002274451,-0.025640849,-0.051048733,0.05089602,-0.030109461,0.0033484965,-0.020935712,0.036062367,-0.03607045,0.009854894,-0.050049275,0.05621826,0.016781772,0.005984351,-0.012891266,0.014444676,0.00615394,0.017691184,-0.009216263,-0.021289298,0.06116895,-0.02467549,-0.034886714,0.024478663,-0.02332416,-0.010348757,-0.009257754,-0.00829677,0.076978706,0.03728287,-0.007030047,0.043575164,0.02341361,-0.06465167,-0.057493847,-0.08872772,-0.014638324,0.091260076,"... 667 items not stringified"],"keywords":[],"summary":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1.  Find the largest element in an array.\n2.  Find the smallest element in an array.\n3.  Reverse an array.\n4.  Find the second largest element in an array.\n5.  Check if the array is sorted.\n6.  Find the sum of all element","text":"Here's the clean and structured text, summary, and keywords:\n\n---\n\n### 1. Clean Text\n\n**Basic DSA Interview Questions & Topics**\n\n**20 Basic Array & String Interview Questions:**\n1. Find the largest element in an array. 2. Find the smallest element in an array. 3. Reverse an array. 4. Find the second largest element in an array. 5. Check if the array is sorted. 6. Find the sum of all elements in an array. 7. Remove duplicate elements from an array. 8. Rotate the array by K positions. 9. Find the missing number in an array of 1 to N. 10. Find the frequency of each element in an array. 11.","timestamps":[]}]}
+[04:34:44.579] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:34:44.807] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:34:44.807] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:34:44.807] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765636641061}
+[04:35:07.112] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:35:07.282] Browser LOG     [v0] Backend response status: 500
+[04:35:07.282] Browser ERROR   [v0] Upload error: {}
+[04:36:15.673] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:36:15.673] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:36:15.673] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765636731920}
+[04:36:26.137] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:36:26.137] Browser LOG     [v0] Backend response status: 500
+[04:36:26.137] Browser ERROR   [v0] Upload error: {}
+[04:36:53.863] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:36:54.131] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:36:54.131] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:36:54.131] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765636770385}
+[04:37:03.852] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:37:07.031] Browser LOG     [v0] Backend response status: 500
+[04:37:07.031] Browser ERROR   [v0] Upload error: {}
+[04:39:52.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:39:53.111] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:39:53.111] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:39:53.111] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765636949363}
+[04:39:58.271] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:40:00.844] Browser LOG     [v0] Backend response status: 500
+[04:40:00.844] Browser ERROR   [v0] Upload error: {}
+[04:41:20.326] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:41:20.496] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:41:20.496] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:41:20.496] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765637036748}
+[04:41:38.177] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:42:12.191] Browser LOG     [v0] Backend response status: 500
+[04:42:12.191] Browser ERROR   [v0] Upload error: {}
+[04:58:13.578] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:58:13.852] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:58:13.852] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:58:13.852] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638050095}
+[04:58:21.606] Browser LOG     [v0] Uploading file to backend: Sauda Khara Khara-128kbps (mp3cut.net).mp3
+[04:58:47.864] Browser LOG     [v0] Backend response status: 500
+[04:58:47.864] Browser ERROR   [v0] Upload error: {}
+[04:59:46.587] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:59:46.844] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:59:46.844] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:59:46.844] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638143088}
+[05:00:04.147] Browser LOG     [v0] Uploading file to backend: Shaky.mp3
+[05:00:36.941] Browser LOG     [v0] Backend response status: 500
+[05:00:36.942] Browser ERROR   [v0] Upload error: {}
+[05:04:37.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:04:37.748] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:04:37.748] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:04:37.748] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638433999}
+[05:05:00.783] Browser LOG     [v0] Uploading file to backend: Shaky.mp3
+[05:05:26.608] Browser LOG     [v0] Backend response status: 500
+[05:05:26.608] Browser ERROR   [v0] Upload error: {}
+[05:09:43.740] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:09:44.073] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:09:44.073] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:09:44.073] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638740325}
+[05:09:51.703] Browser LOG     [v0] Uploading file to backend: Shaky.mp3
+[05:10:29.953] Browser LOG     [v0] Backend response status: 500
+[05:10:29.953] Browser ERROR   [v0] Upload error: {}
+[05:13:02.400] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:13:02.529] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:13:02.529] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:13:02.529] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638938779}
+[05:13:09.830] Browser LOG     [v0] Uploading file to backend: Shaky.mp3
+[05:13:38.950] Browser LOG     [v0] Backend response status: 200
+[05:13:38.950] Browser LOG     [v0] Backend response data: {"message":"Audio processed successfully","totalChunks":1}
+[05:13:45.502] Browser LOG     [v0] Sending message to /api/chat endpoint
+[05:13:45.616] Browser LOG     [v0] Response status: 400
+[05:13:45.616] Browser ERROR   [v0] Request error: {}
+[05:13:55.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:13:55.387] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:13:55.388] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:13:55.388] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765638991633}
+[05:13:57.524] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[05:14:01.920] Browser LOG     [v0] Response status: 200
+[05:14:01.921] Browser LOG     [v0] Response data: {"answer":"Not found in document.","sources":[{"__v":0,"_id":"693d8030b4af213d6cd8abbb","created_at":"2025-12-13T15:03:12.901Z","embedding":[0.019039756,0.002565814,-0.015842715,0.0044234893,-0.00017564549,0.047675848,0.044819232,-0.0026481887,-0.00426605,0.010420637,0.026378894,0.07975107,0.06381852,0.009997815,0.003946562,-0.06326641,0.058427084,0.027072074,-0.059980877,0.0089412965,-0.02817422,-0.01662801,0.023691542,-0.008552357,-0.04271512,-0.016427753,0.035234228,-0.0033169074,-0.008798415,-0.06759117,0.023136096,0.06558331,0.04420188,-0.007961823,0.01939096,-0.03304813,-0.040316418,0.021692747,0.043709647,-0.03294656,-0.025549198,0.0024579156,-0.037107453,-0.024410306,-0.038241394,-0.0171858,0.03380851,0.028206738,-0.00089350756,0.05860074,0.03020577,0.0058372724,-0.06725155,-0.022341704,-0.02710873,-0.057662643,-0.049143717,-0.060708854,0.05240844,0.033319928,0.0095542185,-0.03293852,-0.00807397,-0.034839682,-0.056043196,0.006754759,0.008458651,-0.024192309,-0.07167913,-0.003813656,-0.0053471397,0.034507662,-0.0504875,-0.04722994,0.008022985,0.0064662984,0.02343484,-0.0209874,0.054632623,0.002895865,-0.016249252,0.007265514,-0.00066552585,0.052378565,0.03878568,-0.0043907375,0.0028747243,-0.0035335997,-0.062386714,-0.009383315,0.06809464,-0.005249872,-0.03536133,0.023513088,0.045084305,0.024557542,-0.08272566,-0.08261986,0.014934202,0.040655162,"... 667 items not stringified"],"keywords":[],"summary":"The text you provided, `[object Object]`, appears to be a placeholder or an error string representing a JavaScript object, rather than actual content. I cannot clean, structure, summarize, or extract keywords from this non-textual input.\n\nPlease provide the actual text you intended to share, and I will be happy to assist you!","text":"The text you provided, `[object Object]`, appears to be a placeholder or an error string representing a JavaScript object, rather than actual content. I cannot clean, structure, summarize, or extract keywords from this non-textual input. Please provide the actual text you intended to share, and I will be happy to assist you!","timestamps":[]}]}
+[05:14:07.510] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:14:07.744] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:14:07.744] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:14:07.744] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765639003990}
+[05:14:33.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:14:33.971] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:14:33.971] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[05:14:33.971] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765639030224}
+[05:14:35.135] Browser LOG     [v0] Sending message to /api/chat/query endpoint
+[05:14:41.764] Browser LOG     [v0] Response status: 200
+[05:14:41.764] Browser LOG     [v0] Response data: {"answer":"one","sources":[{"__v":0,"_id":"693d833eaf45ff4835f6e6d7","created_at":"2025-12-13T15:16:14.669Z","embedding":[0.010885484,-0.015655803,-0.05610685,-0.0043884595,0.02874122,0.07349289,-0.03583729,0.005737275,-0.021163873,0.042594124,0.0023183078,0.0054764617,0.009509309,0.011687338,0.04720789,-0.08644176,0.010320314,0.053423226,-0.10362668,0.010144,0.0008887532,-0.008199204,-0.023887705,-0.017022649,-0.026913237,-0.014007574,-0.025980873,-0.024798095,0.015054167,-0.043297518,0.004309849,0.049307954,-0.019906787,-0.059980433,-0.0009639875,0.049141556,-0.034750894,0.04908591,0.0087960465,-0.028752813,-0.094527364,-0.031804997,-0.0155379865,-0.01703468,-0.020091522,-0.034185074,0.0084532965,0.020047268,0.013001825,0.0976668,0.03337396,-0.09009644,-0.024373947,0.0017617836,0.015782014,-0.07825512,-0.034380548,-0.061475836,0.018260412,-0.024415556,-0.03732464,0.015965395,-0.012768488,-0.014989376,-0.010482235,-0.025418196,-0.10030621,-0.02624298,-0.019618876,0.025643986,-0.030772267,0.010437154,-0.051570598,0.0061913617,0.018248165,-0.032176178,0.012288217,-0.017626157,0.027068928,0.037649587,-0.02409355,-0.011928405,0.038334765,0.032783087,0.014874306,0.09672294,-0.014529892,-0.04887014,-0.07539912,-0.022022953,0.07189399,0.046622325,-0.02847861,-0.009623638,0.09411458,-0.03003335,-0.014929856,-0.04066609,0.020117454,0.084097154,"... 667 items not stringified"],"keywords":[],"summary":"","text":"Your presidency is so beautiful, your dimples are amazing, your waist is number one, your walk is so beautiful. Everyone's hands are raised, the rhythm is unmatched, the necklace is golden, not ordinary, you're number one, baby, your waist, your walk, is so beautiful, your dimples, I love, baby, one more time, your waist, your walk, shake it, shake it, is so beautiful, your dimples, win or take, don't let anyone take, don't let anyone take.","timestamps":[]}]}
