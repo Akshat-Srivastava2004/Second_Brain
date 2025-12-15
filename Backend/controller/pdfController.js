@@ -29,17 +29,21 @@ export const uploadPDF = async (req, res) => {
       timestamps: formatted.timestamps
     }));
 
-    await Chunk.insertMany(docsToInsert);
+  console.log("Attempting chunk insert...");
+await Chunk.insertMany(docsToInsert, { ordered: false });
+console.log("Chunk insert done");
 
-    await Document.create({
-      filename: req.file.originalname,
-      modality: "pdf",
-      summary: formatted.summary,
-      keywords: formatted.keywords,
-      totalChunks: chunks.length
-    });
+console.log("Saving document metadata...");
+await Document.create({
+  filename: req.file.originalname,
+  modality: "pdf",
+  summary: formatted.summary,
+  keywords: formatted.keywords,
+  totalChunks: chunks.length
+});
+console.log("Document saved");
 
-    res.json({ message: "PDF processed successfully", formatted });
+res.json({ message: "PDF processed successfully" });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
