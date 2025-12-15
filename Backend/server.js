@@ -12,7 +12,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://second-brain-backend-1bb9.onrender.com"
+    "https://second-brain-gamma-lemon.vercel.app/"
   ],
   credentials: true
 }));
