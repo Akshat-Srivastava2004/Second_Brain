@@ -16,8 +16,8 @@ export function ChatInterface() {
   const fileInputRef = useRef(null)
   const messagesEndRef = useRef(null)
 
-  const BACKEND_CHAT_URL = "http://localhost:5000/api/chat"
-  const BACKEND_QUERY_URL = "http://localhost:5000/api/chat/query"
+  const BACKEND_CHAT_URL = "https://second-brain-backend-1bb9.onrender.com/api/chat"
+  const BACKEND_QUERY_URL = "https://second-brain-backend-1bb9.onrender.com/api/chat/query"
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
