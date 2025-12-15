@@ -12,7 +12,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://second-brain-gamma-lemon.vercel.app/"
+    "https://second-brain-gamma-lemon.vercel.app"
   ],
   credentials: true
 }));
